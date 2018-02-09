@@ -1,5 +1,3 @@
-# Mastering-Ansible
-Mastering Ansible [Video], published by Packt
 # Mastering Ansible [Video]
 This is the code repository for [Mastering Ansible [Video]](https://www.packtpub.com/virtualization-and-cloud/mastering-ansible-video?utm_source=github&utm_medium=repository&utm_campaign=9781788629515), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
